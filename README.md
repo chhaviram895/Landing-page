@@ -1,3 +1,3 @@
 # Landing-page
-This is my html css project
+This is my html css project.
 Author -Chhaviram Kushwah
